@@ -32,5 +32,6 @@ public class ColorPointEx {
         cp.set(3,4);
         cp.setColor("red");
         cp.showColorPoint();
+
     }
 }
